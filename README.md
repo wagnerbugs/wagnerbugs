@@ -50,6 +50,9 @@
     <a href="https://www.twitch.tv/wagnerbugs" target="_blank">
       <img alt="Twitch" src="https://img.shields.io/badge/Twitch-E05D44?labelColor=555555&style=flat-square&logo=twitch&logoColor=white">
     </a>
+    <a href="https://beacons.ai/wagnerbugs" target="_blank">
+      <img alt="Beacons" src="https://img.shields.io/badge/Beacons-E05D44?labelColor=555555&style=flat-square&logo=ibeacon&logoColor=white">
+    </a>
   </div>
   
   ###### YOUTUBE
