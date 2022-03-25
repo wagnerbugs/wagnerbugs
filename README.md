@@ -1,4 +1,5 @@
 ## Opa. Wagner aqui!
+<br><br>
 <div align="center">
   <a href="https://github.com/wagnerbugs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbugs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -6,7 +7,7 @@
   </a>
 </div>
 <br><br>
-<div style="display: inline_block">
+<div align="center" style="display: inline_block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" align="center" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" align="center" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" align="center" height="30" width="40">
@@ -26,26 +27,35 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="Vue" align="center" height="30" width="40">
 </div>
   
-  ##
- 
-<div> 
+  ###### CONTACT
+  <div>
+    <a href="https://instagram.com/wagnerbugs" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E05D44?labelColor=555555&style=flat-square&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.youtube.com/wagnerbugs" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-E05D44?labelColor=555555&style=flat-square&logo=youtube">
+    </a>
+    <a href="https://discord.gg/AzrcpcpT" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-E05D44?labelColor=555555&style=flat-square&logo=discord&logoColor=white">
+    </a> 
+    <a href="mailto:wagnerbugs@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-E05D44?labelColor=555555&style=flat-square&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/wagnerbugs" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-E05D44?labelColor=555555&style=flat-square&logo=linkedin">
+    </a>
+    <a href="https://www.twitch.tv/wagnerbugs" target="_blank">
+      <img alt="Twitch" src="https://img.shields.io/badge/Twitch-E05D44?labelColor=555555&style=flat-square&logo=twitch&logoColor=white">
+    </a>
+  </div>
+  
+  ###### YOUTUBE
   <a href="https://www.youtube.com/wagnerbugs" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCivLOR8_ALNKS_Xmaq2VjBg?style=flat-square">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCivLOR8_ALNKS_Xmaq2VjBg?style=flat-square">
   </a>
-  <a href="https://instagram.com/wagnerbugs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  
+   ###### TWITTER
+  <a href="https://www.twitter.com/wagnerbugs" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wagnerbugs?style=flat-square">
   </a>
- 	<a href="https://www.twitch.tv/wagnerbugs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
- <a href="https://discord.gg/AzrcpcpT" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:wagnerbugs@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/wagnerbugs" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
- 
-</div>
