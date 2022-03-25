@@ -24,7 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" align="center" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="JQuery" align="center" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="Vue" align="center" height="30" width="40">
-  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/a9b6f605-f1df-404d-b339-e122b76cb393-profile_image-300x300.png" alt="WagnerBugs-pic" height="150" align="right" style="border-radius: 10px;">
 </div>
   
   ##
