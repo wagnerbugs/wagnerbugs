@@ -1,8 +1,8 @@
 <img width="100%" src="https://pbs.twimg.com/profile_banners/37392070/1686255764/1500x500"/>
 <br><br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbugs&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbugs&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerbugs&show_icons=true&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbugs&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 <br><br>
 
