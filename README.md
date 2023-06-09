@@ -57,10 +57,8 @@
   
   ###### YOUTUBE
   <a href="https://www.youtube.com/wagnerbugs" target="_blank">
-  
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCivLOR8_ALNKS_Xmaq2VjBg?style=flat-square">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCivLOR8_ALNKS_Xmaq2VjBg?style=flat-square">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCivLOR8_ALNKS_Xmaq2VjBg?style=plastic">
   </a>
   
    ###### TWITTER
