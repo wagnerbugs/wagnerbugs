@@ -1,4 +1,3 @@
-# WAGNER BUGS
 <img width="100%" src="https://pbs.twimg.com/profile_banners/37392070/1686255764/1500x500"/>
 <br><br>
 <div align="center">
