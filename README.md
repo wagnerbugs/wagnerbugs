@@ -10,7 +10,7 @@
 
 
 <div style="display: inline_block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img heigh="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
   
   ###### CONTACT
